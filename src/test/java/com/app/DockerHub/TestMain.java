@@ -6,6 +6,6 @@ import org.junit.Test;
 public class TestMain {
 	@Test
 	public void testInputIsEven(){
-		assertTrue(Main.CheckIfInputIsAnEvenNumber(23)); //Assertion
+		assertTrue(Main.CheckIfInputIsAnEvenNumber(22)); //Assertion
 	}
 }
