@@ -10,6 +10,9 @@
   <name>DockerHub</name>
   <url>http://maven.apache.org</url>
 
+<build>
+      <finalName>java-jenkins-docker</finalName>
+    </build>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
