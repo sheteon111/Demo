@@ -1,9 +1,7 @@
 package com.app.DockerHub;
 
-
-public class main
-{
-    public static void main( String[] args )
+public class Main{
+    public static void main(String[] args)
     {
         System.out.println( CheckIfInputIsAnEvenNumber(122));
     }
@@ -12,5 +10,5 @@ public class main
     {
     	return number % 2 == 0;
     }
-    }
+}
 
